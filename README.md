@@ -2,4 +2,5 @@
 \
 zawartość:\
 -skrypty przygotowujące dane do metod uczenia maszynowego + wykresy\
--niestety brak dostępu do plików wykorzystujących metody uczenia maszynowego (SVM, NN, RF) :(
+-niestety brak dostępu do plików wykorzystujących metody uczenia maszynowego (SVM, NN, RF) :(\
+-skrypt z arduino

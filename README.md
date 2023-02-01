@@ -1,1 +1,1 @@
-# Identyfikacja_gleb
+# Master's thesis: Soil identification based on moisture characteristics measurements
